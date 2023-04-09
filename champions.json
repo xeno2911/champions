@@ -162,7 +162,7 @@
     {
         "id": 31,
         "name": "ChoGath",
-        "tier": "c",
+        "tier": "b",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Chogath.webp",
         "plugins": []
@@ -586,7 +586,7 @@
     {
         "id": 54,
         "name": "Malphite",
-        "tier": "a",
+        "tier": "b",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Malphite.webp",
         "plugins": []
@@ -786,7 +786,7 @@
     {
         "id": 33,
         "name": "Rammus",
-        "tier": "a",
+        "tier": "b",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rammus.webp",
         "plugins": []
